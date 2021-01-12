@@ -29,7 +29,7 @@ The only thing I'm still flaky on is recursion.
 
 I've also done some of my own projects:
 * Typeracer Web Scraper (for Race Data)
-* Reading and Learning material in the HeadFist Java book (on pg. 383)
+* Reading and Learning material in the HeadFirst Java book (on pg. 383)
 * Up to day seven on AdventOfCode.com (I got stuck on 7 and didn't feel like continuing)
 
 I want to make/create more, so that's why I'm here!
